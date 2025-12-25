@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Developer Workspace" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" alt="Developer Workspace" width="380" hieght="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 🎓 **B.Tech CSE student** passionate about building scalable full stack applications  
 💻 **Full Stack Developer** skilled in React, Node.js, MongoDB & PHP  
