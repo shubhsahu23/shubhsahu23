@@ -14,11 +14,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-🎓 **B.Tech CSE student passionate about building scalable full stack applications  
-💻 **Full Stack Developer skilled in React, Node.js, MongoDB & PHP   
-🧠 **Problem solver with 300+ DSA challenges solved using C++   
+🎓 **B.Tech CSE student** passionate about building scalable full stack applications  
+💻 **Full Stack Developer** skilled in React, Node.js, MongoDB & PHP  
+🧠 **Problem solver** with 300+ DSA challenges solved using C++  
 🤖 **AI Enthusiast** working with Gemini API & intelligent systems  
-📧 Reach me at **shubhsahu2006@gmail.com**
+📧 **Reach me at:** shubhsahu2006@gmail.com
 
 ---
 
