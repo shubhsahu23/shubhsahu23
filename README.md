@@ -16,7 +16,7 @@
 
 🎓 **B.Tech CSE student passionate about building scalable full stack applications  
 💻 **Full Stack Developer skilled in React, Node.js, MongoDB & PHP   
-🧠 ** Problem solver with 300+ DSA challenges solved using C++   
+🧠 **Problem solver with 300+ DSA challenges solved using C++   
 🤖 **AI Enthusiast** working with Gemini API & intelligent systems  
 📧 Reach me at **shubhsahu2006@gmail.com**
 
