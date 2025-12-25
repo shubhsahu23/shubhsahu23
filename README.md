@@ -67,11 +67,11 @@
 
 ## 🚀 Featured Projects
 
-🟢 **AgroBot AI** – AI-powered smart agriculture platform  
-🟢 **HabitBuddy** – Habit tracking web application  
-🟢 **Mental Health Chatbot** – AI chatbot with voice support  
+• AgroBot AI — AI-powered smart agriculture platform  
+• HabitBuddy — Habit tracking web application  
+• Mental Health Chatbot — AI chatbot with voice support  
 
-👉 Check pinned repositories below ⬇️
+Pinned repositories below ⬇️
 
 ---
 
