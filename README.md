@@ -12,8 +12,6 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Developer Workspace" width="380" height="200" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
 🎓 **B.Tech CSE student** passionate about building scalable full stack applications  
 💻 **Full Stack Developer** skilled in React, Node.js, MongoDB & PHP  
 🧠 **Problem solver** with 300+ DSA challenges solved using C++  
