@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey!+I'm+Shubh+Sahu;Full+Stack+Developer;Problem+Solver;AI+Enthusiast;B.Tech+CSE+Student&font=Fira%20Code&center=true&width=500&height=45&color=00bfbf&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey!+I'm+Shubh+Sahu;Full+Stack+Developer;B.Tech+CSE+Student&font=Fira%20Code&center=true&width=500&height=45&color=00bfbf&vCenter=true&size=22">
 </div>
 
 <div align="center">
@@ -14,11 +14,10 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-🎓 **B.Tech CSE Student** at Lovely Professional University  
-💻 **Full Stack Developer** (MERN & PHP stack)  
-🧠 **300+ DSA problems solved** (C++ focused)  
+🎓 **B.Tech CSE student passionate about building scalable full stack applications  
+💻 **Full Stack Developer skilled in React, Node.js, MongoDB & PHP   
+🧠 ** Problem solver with 300+ DSA challenges solved using C++   
 🤖 **AI Enthusiast** working with Gemini API & intelligent systems  
-🏆 **Smart India Hackathon – Round 3 Qualifier**  
 📧 Reach me at **shubhsahu2006@gmail.com**
 
 ---
@@ -76,40 +75,11 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shubhsahu23&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhsahu23&layout=compact&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhsahu23&theme=tokyonight"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shubhsahu23&theme=tokyonight&margin-w=10"/>
-</div>
-
----
-
 ## 🎯 Current Focus
 - 🔭 Building **scalable full stack applications**
 - 🌱 Improving **backend architecture & DSA**
 - 🤖 Exploring **AI-powered web apps**
 - 🎯 Preparing for **internships & placements**
-
----
-
-## 📈 Contribution Graph
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shubhsahu23/shubhsahu23/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shubhsahu23/shubhsahu23/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shubhsahu23/shubhsahu23/output/github-contribution-grid-snake.svg">
-</picture>
 
 ---
 
@@ -128,7 +98,3 @@
 
 ---
 
-<div align="center">
-  <h3>💡 "First, solve the problem. Then, write the code."</h3>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
